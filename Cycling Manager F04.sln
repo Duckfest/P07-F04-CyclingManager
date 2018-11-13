@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cycling Manager F04", "Cycling Manager F04.csproj", "{83264071-1B4A-4116-7811-CFBD44DB6159}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cycling Manager F04.Editor", "Cycling Manager F04.Editor.csproj", "{AA279389-A6B3-970D-BCF9-367CCA230A5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83264071-1B4A-4116-7811-CFBD44DB6159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83264071-1B4A-4116-7811-CFBD44DB6159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83264071-1B4A-4116-7811-CFBD44DB6159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83264071-1B4A-4116-7811-CFBD44DB6159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA279389-A6B3-970D-BCF9-367CCA230A5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA279389-A6B3-970D-BCF9-367CCA230A5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA279389-A6B3-970D-BCF9-367CCA230A5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA279389-A6B3-970D-BCF9-367CCA230A5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
